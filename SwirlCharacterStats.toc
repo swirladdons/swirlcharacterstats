@@ -1,0 +1,27 @@
+## Interface: 120000, 120001, 120005
+
+## Title: |cff02fd98Swirl|rUI Character Stats
+## Notes: Character Stats Panel
+## Author: Swirl
+## Version: @project-version@
+## SavedVariables: SwirlCharacterStatsDB
+## IconTexture: Interface\ICONS\inv_10_inscription_illusoryspellscrolls_color1
+## Group: SwirlUI
+## Dependencies: SwirlUI
+
+## Category: User Interface
+## Category-deDE: Benutzerinterface
+## Category-esES: Interfaz de usuario
+## Category-esMX: Interfaz de usuario
+## Category-frFR: Interface utilisateur
+## Category-itIT: Interfaccia utente
+## Category-koKR: 사용자 인터페이스
+## Category-ptBR: Interface do usuário
+## Category-ruRU: Интерфейс пользователя
+## Category-zhCN: 用户界面
+## Category-zhTW: 使用者介面
+
+SwirlCharacterStats.lua
+Tabs/Character.lua
+Tabs/Titles.lua
+Tabs/Equipment.lua
